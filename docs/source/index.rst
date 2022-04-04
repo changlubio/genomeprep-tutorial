@@ -35,10 +35,16 @@ You can also `download <https://supfam.mrc-lmb.cam.ac.uk/GenomePrep/downloads.ht
 
     process.py [infile]
     
---------
-
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
+
+.. note::
+
+   This project is under active development.
+
+Contents
+--------
+
 .. toctree::
 
    usage
