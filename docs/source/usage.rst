@@ -6,7 +6,7 @@ Usage
 Installation
 ------------
 
-Source code from Github:
+Source code from `Github <https://github.com/changlubio/GenomePrep>`_ :
 
 .. code-block:: console
 
