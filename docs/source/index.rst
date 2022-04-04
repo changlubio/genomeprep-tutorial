@@ -1,17 +1,16 @@
-Welcome to Lumache's documentation!
+Welcome to GenomePrep's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**GenomePrep** GenomePrep is a Python library for genetics enthusiasts 
+that prepare direct-to-consumer DNA data for analysis with cutting-edge bioinformatics tools.
+It was developed on the goodwill of open genome data, addresses the problem of processing raw DTC DNA data in the context of the present: genotype arrays. It offers several *simple* and *intuitive* scripts to process raw DNA test data.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
-.. note::
+.. source::
 
-   This project is under active development.
+   This toolkit is developed on the goodwill of open genome data: over 7,000 genomes made public between 2011 and 2020, from the `OpenSNP <https://opensnp.org/>`_ and `PGP<https://pgp.med.harvard.edu/data>`.
 
 Contents
 --------
