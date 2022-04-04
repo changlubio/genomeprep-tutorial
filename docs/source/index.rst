@@ -19,14 +19,13 @@ It performs the following tasks:
 6. Convert to 23andMe-like format and VCF format for downstream analysis
 
 This project was developed on the goodwill of over 7,000 open genome data made public between 2011 and 2020, 
-addresses the problem of processing raw DTC DNA data in the context of the present: genotype arrays.
+addressing the problem of processing raw DTC DNA data in the context of the present: genotype arrays.
 
 More information about genotyping array, ancestral relatedness can be found in `our paper on CSBJ <https://doi.org/10.1016/j.csbj.2021.06.040>`_:
 
 C. Lu, B. Greshake Tzovaras, J. Gough, A survey of direct-to-consumer genotype data,and quality control tool (GenomePrep) for research, Computational and Structural Biotechnology Journal(2021)
 
 You can upload and process your genome `on server <https://supfam.mrc-lmb.cam.ac.uk/GenomePrep/checkit.html>`_.
-
 
 **Usage**
 
