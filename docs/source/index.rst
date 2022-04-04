@@ -1,9 +1,3 @@
-.. GenomePrep documentation master file, created by
-   sphinx-quickstart on Fri Jun  8 10:09:40 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-
 GenomePrep: Preprocess Direct-To-consumer (DTC) Genomes
 =======================================================
 
@@ -28,13 +22,6 @@ C. Lu, B. Greshake Tzovaras, J. Gough, A survey of direct-to-consumer genotype d
 You can upload and process your genome `on server <https://supfam.mrc-lmb.cam.ac.uk/GenomePrep/checkit.html>`_.
 
 You can also `download <https://supfam.mrc-lmb.cam.ac.uk/GenomePrep/downloads.html>`_ preprocessed open genomes.
-
-**Usage**
-
-.. code:: bash
-
-    process.py [infile]
-    
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
