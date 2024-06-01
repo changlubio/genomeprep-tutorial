@@ -21,7 +21,7 @@ C. Lu, B. Greshake Tzovaras, J. Gough, A survey of direct-to-consumer genotype d
 
 You can upload and process your genome `on server <https://supfam.mrc-lmb.cam.ac.uk/GenomePrep/checkit.html>`_.
 
-You can also `download <https://supfam.mrc-lmb.cam.ac.uk/GenomePrep/downloads.html>`_ preprocessed open genomes.
+You can also download preprocessed open genomes on `supfam server <https://supfam.mrc-lmb.cam.ac.uk/GenomePrep/downloads.html>`_, or from `Zenodo <https://zenodo.org/records/5047472>`_ .
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
